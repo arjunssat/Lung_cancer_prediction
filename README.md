@@ -1,2 +1,2 @@
 # Lung_cancer_prediction
-Analyses the lung cancer among the various parameter's of the patient.
+Analyses the presence of lung cancer among the patient by evaluating various parameter's.
